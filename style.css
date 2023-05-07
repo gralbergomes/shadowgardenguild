@@ -189,6 +189,7 @@ footer{
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     padding: 3rem 3.5rem;
+    box-shadow: 0 0.1rem 0.5rem blueviolet;
 }
 
 #footer_contacts h1 {
