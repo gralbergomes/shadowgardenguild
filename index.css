@@ -116,7 +116,7 @@ body{
 .home-img img{
     width: 100%;
 }
-@media (max-width:785px) {
+@media (max-width:785px) { 
     .navigation{
         padding: 18px 20px;
     }
@@ -231,6 +231,9 @@ footer{
 }
 #discord {
     background-color: #5b77f1;
+}
+#youtube {
+    background-color: red;
 }
 .footer-list {
     display: flex;
