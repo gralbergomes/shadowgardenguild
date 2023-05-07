@@ -37,8 +37,7 @@ header{
     justify-content: space-between;
 }
 header .logo{
-    position: relative;
-    max-width: 150px;
+   width: 15%;
 }
 header .navegation ul{
     position: relative;
