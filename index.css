@@ -396,3 +396,51 @@ footer{
     max-width: 100%;
     
   }
+
+  #noticias {
+    background-color: black;
+    padding: 20px;
+  }
+  
+  #noticias h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: white;
+  }
+  
+  #noticias ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #noticias li {
+    margin-bottom: 20px;
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  #noticias img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+    padding: 10px;
+  }
+  
+  #noticias a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  #noticias a:hover {
+    color: blueviolet;
+    text-decoration: underline;
+  }
+  
+  #noticias p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: white;
+  }
