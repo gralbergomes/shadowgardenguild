@@ -283,3 +283,16 @@ footer{
         padding: 3rem 2rem;
     }
 }
+
+.regras-content ul {
+    color: white;
+    margin: 10px 0;
+    padding: 5px;
+  
+  text-align: center;
+  }
+.historia-content ul {
+    color: white;
+    margin: 10px 0;
+    padding: 5px;
+}
