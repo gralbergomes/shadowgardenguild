@@ -444,3 +444,21 @@ footer{
     margin-bottom: 10px;
     color: white;
   }
+
+  .Loja h3 {
+    color: white;
+    padding-bottom: 30px;
+  }
+
+  .loja img {
+    justify-content: space-between;
+  height: auto;
+  width: 100;
+  height: 200;
+
+  }
+
+  .loja {
+    max-width: 800px; /* exemplo de largura máxima do contêiner */
+  margin: 0 auto; /* centraliza o contêiner na página */
+  }
