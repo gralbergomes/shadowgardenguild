@@ -478,3 +478,6 @@ footer{
     padding: 10px;
     border-radius: 5px;
   }
+  .home-btn2:hover {
+    background: purple;
+  }
