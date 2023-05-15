@@ -237,6 +237,9 @@ footer{
 #youtube {
     background-color: red;
 }
+#twitch {
+    background-color: rgb(122, 0, 221);
+}
 .footer-list {
     display: flex;
     flex-direction: column;
