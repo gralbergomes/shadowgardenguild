@@ -489,3 +489,20 @@ footer {
     font-size: 16px;
     color: black;
 }
+
+#social_media {
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+  }
+  
+  .footer-link {
+    margin: 0 10px;
+    font-size: 24px;
+    transition: color 0.3s;
+  }
+  
+  .footer-link:hover {
+    color: blueviolet;
+  }
+  
