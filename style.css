@@ -366,6 +366,13 @@ footer {
     color: blueviolet;
     text-align: center;
   }
+  #noticias h3 {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: white;
+    text-align: center;
+  }
   
   #noticias ul {
     list-style: none;
